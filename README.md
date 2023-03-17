@@ -24,3 +24,7 @@ The image below shows a printed statement using results from the dataframes used
 ![](questions.png)
 
 ## Summary
+
+Based on the data used in this analysis, it can be observed that there is a positivity bias for reviews in the Vine program. The percentage of 5-star reviews in the Vine program is significantly higher (51.06%) than in the non-Vine program (38.70%). This indicates that customers who participate in the Vine program are more likely to give a higher rating to the products they review compared to those who do not participate in the program.
+
+A further analysis that could be conducted to support this claim could be comparing the average ratings(all ratings including 5 stars) assigned by Vine reviewers and non-Vine reviewers. This would offer a more comprehensive perspective on the rating patterns of these two groups. If the mean rating assigned by Vine reviewers is significantly greater than that of non-Vine reviewers, it would support the argument that the Vine program demonstrates a tendency towards positive bias.
